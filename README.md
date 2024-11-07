@@ -1,12 +1,12 @@
-- 👋 Hi, I’m @Blazingjojo
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+# QA Training Project Readme
+This project uses the Replit IDE, which is located 
+https://replit.com/@flamingsiah/Blazingjojo#README.md
 
-<!---
-Blazingjojo/Blazingjojo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+The technologies involved with this project are [Python](https://www.python.org/), [SQLite w/Python](https://www.geeksforgreeks.org/python-sqlite/),[Selenium](https://www.selenium.dev/).
+
+The skills developed in this project are:
+1. Git & Github
+2. Writing Python Code
+3. Writing SQL
+4. Implementing Selenium
+5. Learning core QA Concepts & Methodologies
